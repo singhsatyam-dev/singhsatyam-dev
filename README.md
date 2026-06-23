@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi 👋, I'm Satyam Singh
 
-<!--
-**singhsatyam-dev/singhsatyam-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Developer | Full Stack Developer
 
-Here are some ideas to get you started:
+I'm a BCA graduate passionate about building modern web applications and solving real-world problems through code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning:
+- TypeScript
+- Next.js
+- Advanced React
+- Data Structures & Algorithms
+
+---
