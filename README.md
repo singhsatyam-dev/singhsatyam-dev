@@ -1,38 +1,60 @@
-# Hi 👋, I'm Satyam Singh
+# Hi 👋, I'm Satyam Kumar Singh
 
-### Frontend Developer | Full Stack Developer | React & Next.js Enthusiast
+### Full Stack Developer | MERN Stack Developer | JavaScript & TypeScript Enthusiast
 
-I'm a BCA graduate passionate about building modern web applications and continuously improving my problem-solving skills through Data Structures & Algorithms.
+I'm a BCA graduate passionate about building scalable, modern web applications with the MERN Stack. I enjoy solving real-world problems, learning new technologies, and continuously improving my skills in Full Stack Development and Data Structures & Algorithms.
 
-Over the last 10 months, I've been learning and building projects using HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, TypeScript, and Next.js.
+Over the past year, I've built multiple production-ready projects using React, Node.js, Express.js, MongoDB, TypeScript, Next.js, AWS S3, and modern frontend technologies.
 
 ---
 
 ## 🚀 About Me
 
-* 🌱 Currently learning **AWS** and **Next.js**
-* 💻 Building Full Stack Applications using the MERN Stack
-* 📚 Practicing Advanced Data Structures & Algorithms
-* 🎯 Preparing for FullStack / Frontend / Backend Developer opportunities
-* ⚡ Passionate about creating scalable and user-friendly web applications
+- 🌱 Currently learning **AWS Cloud Services**, **Next.js**, and advanced backend architecture
+- 💻 Building scalable Full Stack applications using the **MERN Stack**
+- 📚 Practicing **Data Structures & Algorithms** for technical interviews
+- 🚀 Passionate about designing responsive, performant, and user-friendly web applications
+- 🎯 Open to **Full Stack**, **Frontend**, and **Backend Developer** opportunities
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 📄 CollaborateX
+## ☁️ NimbusDrive
+
+A modern cloud storage platform inspired by Google Drive that enables secure file management with AWS S3 integration.
+
+### Features
+
+- JWT Authentication & Authorization
+- Secure File Uploads to AWS S3
+- Signed URL Downloads
+- File Sharing
+- Storage Usage Dashboard
+- Search, Filter & Sorting
+- Responsive Premium UI
+- TypeScript & Shadcn UI
+
+🔗 Live Demo: *Coming Soon*
+
+🔗 Repository: https://github.com/your-username/nimbusdrive
+
+---
+
+## 📄 CollaborateX
 
 A real-time collaborative document editor built using the MERN Stack and Socket.IO.
 
-#### Features
+### Features
 
-* Real-time collaboration
-* Rich Text Editor
-* Authentication & Authorization
-* Document Sharing
-* Public & Private Documents
-* Active User Tracking
-* Socket.IO Rooms
+- Real-time Collaboration
+- Rich Text Editor
+- Authentication & Authorization
+- Document Sharing
+- Public & Private Documents
+- Active User Tracking
+- Socket.IO Rooms
+- Auto Save
 
 🔗 Live Demo: https://collaborate-x-steel.vercel.app
 
@@ -40,18 +62,19 @@ A real-time collaborative document editor built using the MERN Stack and Socket.
 
 ---
 
-### 💼 CareerForge
+## 💼 CareerForge
 
-A Full Stack Job Portal with AI ATS Resume Scoring.
+A Full Stack AI-powered Job Portal connecting recruiters and job seekers.
 
-#### Features
+### Features
 
-* Recruiter & Job Seeker Roles
-* Authentication & Authorization
-* Job Management Dashboard
-* Resume Upload
-* AI ATS Resume Analysis
-* Responsive Design
+- Recruiter & Job Seeker Roles
+- Authentication & Authorization
+- Job Management Dashboard
+- Resume Upload
+- AI ATS Scorer
+- Profile Management
+- Responsive Design
 
 🔗 Live Demo: https://job-portal-full-stack-jade.vercel.app
 
@@ -59,79 +82,92 @@ A Full Stack Job Portal with AI ATS Resume Scoring.
 
 ---
 
-### 💬 ChatterUp
+# 💻 Tech Stack
 
-A real-time chat application focused on seamless communication.
+## 🌐 Frontend
 
-#### Features
-
-* Real-time Messaging
-* Authentication
-* Online User Status
-* Responsive Interface
-
-🔗 Live Demo: Coming Soon
-
-🔗 Repository: https://github.com/your-username/chatterup
-
----
-
-## 💻 Tech Stack
-
-### Frontend
-
-* HTML5
-* CSS3
-* JavaScript (ES6+)
-* React.js
-* TypeScript
-* Next.js
-
-### Backend
-
-* Node.js
-* Express.js
-
-### Database
-
-* MongoDB
-
-### Tools & Technologies
-
-* Git
-* GitHub
-* Socket.IO
-* Firebase
-* Postman
-* REST APIs
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- TypeScript
+- React.js
+- Next.js
+- Tailwind CSS
+- Shadcn UI
+- Redux Toolkit
+- Zustand
+- TanStack Query
+- React Hook Form
+- Zod
+- Framer Motion
+- GSAP
+- Axios
+- Vite
 
 ---
 
-## 📈 Currently Working On
+## ⚙️ Backend
 
-* Building a professional Portfolio using Next.js & TypeScript
-* Advanced React Concepts
-* Data Structures & Algorithms
-* AI Interview Simulator Project
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=singhsatyam-dev\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=singhsatyam-dev\&layout=compact)
+- Node.js
+- Express.js
+- REST APIs
+- JWT Authentication
+- Socket.IO
+- Multer
+- Cloudinary
+- AWS SDK
 
 ---
 
-## 📫 Connect With Me
+## 🗄️ Database
 
-LinkedIn: https://www.linkedin.com/in/satyam-kumar-singh-25087b291/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQClvIMOKSHegv0OATcbDgw%3D%3D
-
-Portfolio: https://your-portfolio-link
-
-Email: [sinhgsatyam1@gmail.com](mailto:your-email@example.com)
+- MongoDB
+- Mongoose
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+## ☁️ Cloud & Deployment
+
+- AWS S3
+- Vercel
+- Render
+
+---
+
+## 🛠️ Tools
+
+- Git
+- GitHub
+- Postman
+- VS Code
+- npm
+- Linux (Ubuntu)
+
+---
+
+# 📈 Currently Working On
+
+- AWS Cloud Services
+- Advanced Backend Development
+- System Design Fundamentals
+- Data Structures & Algorithms
+- Building Production-Ready Full Stack Applications
+
+---
+
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=singhsatyam-dev&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=singhsatyam-dev&layout=compact&theme=tokyonight)
+
+---
+
+# 📫 Connect With Me
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/satyam-kumar-singh-25087b291/
+- 📧 **Email:** your-email@example.com
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
