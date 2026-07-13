@@ -157,16 +157,16 @@ A Full Stack AI-powered Job Portal connecting recruiters and job seekers.
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=singhsatyam-dev&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=singhsatyam-dev&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=singhsatyam-dev&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=singhsatyam-dev&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
 # 📫 Connect With Me
 
 - 💼 **LinkedIn:** https://www.linkedin.com/in/satyam-kumar-singh-25087b291/
-- 📧 **Email:** your-email@example.com
+- 📧 **Email:** sinhgsatyam1@gmail.com
 
 ---
 
