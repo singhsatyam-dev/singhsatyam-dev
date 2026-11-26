@@ -35,7 +35,7 @@ A modern cloud storage platform inspired by Google Drive that enables secure fil
 - Responsive Premium UI
 - TypeScript & Shadcn UI
 
-🔗 Live Demo: https://portfolio-ten-psi-s20h91157u.vercel.app/
+🔗 Live Demo: https://nimbus-drive-rho.vercel.app/
 
 🔗 Repository: https://github.com/your-username/nimbusdrive
 
